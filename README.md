@@ -1,5 +1,5 @@
 # DIO
-DIO - Git/GitHuv
+DIO - Git/GitHub
 
 
 Projeto desenvolvido para conclusão do desafio da DIO sobre Git/GitHub
